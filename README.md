@@ -9,15 +9,15 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Jair Guilherme
+- Matricula:894847
+- Proposta de projeto escolhida: eventos
 - Breve descrição sobre seu projeto:
 
 **Print da tela com a implementação**
 
 << Coloque aqui uma breve explicação da implementação feita nessa etapa>>
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+<<  ![alt text](image.png) >>
 
 <<  COLOQUE A IMAGEM TELA 2 AQUI >>
